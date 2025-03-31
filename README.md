@@ -85,7 +85,7 @@ fertilizer-recommendation/
 - **Author**: Piyush Gupta  
   M.L. Student, IIITDM Kurnool  
 - **Supervisor**: Dr. Vishesh P. Gaikwad  
-  Assistant Professor, CSE Department
+  Assistant Professor, CSE Department,SVNIT Surat.
 
 📬 Contact: **gguptapiyush45@gmail.com**
 
